@@ -12,6 +12,12 @@ A simple report handling system using nextjs, shadcn, prisma.
 - add user credentials, OAuth authentication
 - add user sign-up
 
+## Try it out!
+You can try it out on a deployed site here: [vercel live delopyment link](https://reporting-mgjk.vercel.app/)
+Different trial accounts to see their respective views:
+- Admin email: admin@reporting.com
+- User email: user@reporting.com
+
 ## Setup guide: 
 ### Local / self-hosted
 1. Fork and clone this repository.
