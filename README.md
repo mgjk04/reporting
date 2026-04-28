@@ -13,7 +13,7 @@ A simple report handling system using nextjs, shadcn, prisma.
 - add user sign-up
 
 ## Try it out!
-You can try it out on a deployed site here: [vercel live delopyment link](https://reporting-mgjk.vercel.app/)
+You can try it out on a deployed site here: [vercel live delopyment link](https://reporting-mgjk.vercel.app/)  
 Different trial accounts to see their respective views:
 - Admin email: admin@reporting.com
 - User email: user@reporting.com
